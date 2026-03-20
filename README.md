@@ -1,4 +1,4 @@
-# Clipra Password Login System 🔐
+# Password Login System 🔐
 
 ## What it does
 - Lets user create a password
